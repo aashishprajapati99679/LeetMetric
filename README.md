@@ -2,6 +2,10 @@
 
 LeetMetric is a simple and responsive web application that allows users to check their LeetCode statistics by entering their username. The project fetches data from the LeetCode GraphQL API and displays solved problems, submission statistics, and progress indicators for Easy, Medium, and Hard questions.
 
+## Live Demo
+
+🔗 https://leet-metric-zeta-dun.vercel.app/
+
 ## Features
 
 - Search LeetCode users
@@ -42,6 +46,14 @@ LeetMetric/
 2. JavaScript validates the username.
 3. A GraphQL API request is sent to LeetCode.
 4. User statistics are fetched and displayed dynamically.
+
+## Example Username
+
+You can test the project using:
+
+```bash
+lakshay
+```
 
 ## API Used
 
